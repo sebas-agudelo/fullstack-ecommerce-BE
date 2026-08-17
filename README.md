@@ -1,0 +1,1 @@
+För att köra denna projekt behöver du köra npm i / npm install. I frontend ska man starta React.js med npm start och backend ska man starta Node.JS med npm run dev samt ställa in .env filen. Jag har kört supabase för auth, databas och storage där jag lagrar produkt bilder. 
