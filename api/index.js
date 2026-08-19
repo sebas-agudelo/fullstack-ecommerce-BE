@@ -16,7 +16,7 @@ const app = express();
 app.use(cors({
   origin: function (origin, callback) {
     const allowedOrigins = [
-      "https://fullstack-ecommerce-fe-lnwd-au6sb4ey8.vercel.app/",
+      "https://fullstack-ecommerce-fe-lnwd-au6sb4ey8.vercel.app",
 
       "http://localhost:3000"
     ];
